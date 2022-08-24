@@ -1,0 +1,9 @@
+{
+    "name": "潮盒",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_runstate": true
+    }
+}
